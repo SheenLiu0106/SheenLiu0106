@@ -11,7 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/intro-infographic.gif" width="100%" alt="Sheen Liu — creative technologist, AI systems and product engineering" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/intro-infographic.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/intro-infographic-light.gif" />
+    <img src="assets/intro-infographic-light.gif" width="100%" alt="Sheen Liu — creative technologist, AI systems and product engineering" />
+  </picture>
 </p>
 
 <p align="center">

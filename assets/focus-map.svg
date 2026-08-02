@@ -1,4 +1,5 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <style>@media (prefers-color-scheme: light){[fill="#050505"],[fill="#0a0a0a"],[fill="#0b0b0b"]{fill:#f7f7f4}[fill="#f3f3ef"],[fill="#f4f4f0"],[fill="#eee"],[fill="#ddd"]{fill:#151515}[fill="#aaa"],[fill="#999"],[fill="#777"],[fill="#868682"]{fill:#555}[stroke="#303030"],[stroke="#333"],[stroke="#232323"],[stroke="#1d1d1d"]{stroke:#d7d7d2}[stroke="#aaa"],[stroke="#ddd"],[stroke="#eee"]{stroke:#222}}</style>
   <defs><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#1d1d1d"/></pattern></defs>
   <rect width="1200" height="360" rx="10" fill="#0a0a0a"/><rect width="1200" height="360" rx="10" fill="url(#grid)"/>
   <path d="M400 32V328M800 32V328" stroke="#303030"/>
