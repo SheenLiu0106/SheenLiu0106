@@ -1,0 +1,31 @@
+<svg width="1983" height="793" viewBox="0 0 1983 793" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .mono { font-family: "SFMono-Regular", "IBM Plex Mono", "Courier New", monospace; fill: #e8e5dc; }
+    .dim { fill: #99978f; }
+    .signal { fill: #a72b2b; }
+  </style>
+
+  <g class="mono">
+    <text x="706" y="104" font-size="21" letter-spacing="2">SHEEN_LIU // IDENTITY_NODE</text>
+    <text x="706" y="145" font-size="17" class="dim">$ whoami</text>
+    <text x="706" y="172" font-size="17">&gt; CREATIVE_TECHNOLOGIST</text>
+    <text x="706" y="210" font-size="17" class="dim">$ init --mode BUILD</text>
+    <text x="706" y="237" font-size="17">&gt; AI_SYSTEMS ........ READY</text>
+    <text x="706" y="264" font-size="17">&gt; PRODUCT_ENGINEERING READY</text>
+    <text x="706" y="291" font-size="17">&gt; INTERACTION_DESIGN . READY</text>
+    <text x="706" y="320" font-size="17" class="signal">[ SIGNAL ACQUIRED ]</text>
+
+    <text x="1244" y="74" font-size="13" class="dim" letter-spacing="1.5">KNOWLEDGE_GRAPH // LIVE</text>
+    <text x="1696" y="82" font-size="13" class="dim">NODE: 0106</text>
+    <text x="1696" y="106" font-size="13">STATE: ONLINE</text>
+    <text x="1696" y="130" font-size="13">UPLINK: GITHUB</text>
+
+    <text x="697" y="585" font-size="14" class="dim">VOICEPRINT // STREAM</text>
+    <text x="1168" y="430" font-size="14" class="dim">HUMAN × MACHINE // INTERFACE</text>
+
+    <text x="132" y="710" font-size="18">STATUS: ONLINE</text>
+    <text x="132" y="743" font-size="18">BUILD / OBSERVE / REFINE / REPEAT</text>
+    <text x="1390" y="710" font-size="18">SYSTEM_TIME: CONTINUOUS</text>
+    <text x="1390" y="743" font-size="18" class="signal">ERRORS: LEARNING_IN_PROGRESS</text>
+  </g>
+</svg>

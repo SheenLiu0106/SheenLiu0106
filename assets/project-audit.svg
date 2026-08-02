@@ -1,0 +1,15 @@
+<svg width="600" height="280" viewBox="0 0 600 280" xmlns="http://www.w3.org/2000/svg">
+  <defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#232323"/></pattern></defs>
+  <rect width="600" height="280" rx="10" fill="#0b0b0b"/><rect width="600" height="280" rx="10" fill="url(#g)"/>
+  <text x="28" y="34" fill="#777" font-family="monospace" font-size="12">01 / PRODUCT INTELLIGENCE</text>
+  <g transform="translate(340 32)" fill="none" stroke="#aaa" stroke-width="2">
+    <path d="M8 104H56L82 62H128L158 104H214" stroke-dasharray="7 6"><animate attributeName="stroke-dashoffset" values="0;-26" dur="2s" repeatCount="indefinite"/></path>
+    <rect x="0" y="88" width="38" height="32"/><rect x="98" y="46" width="38" height="32"/><rect x="204" y="88" width="38" height="32"/>
+    <circle cx="76" cy="104" r="8" stroke="#c72c2c"><animate attributeName="r" values="6;11;6" dur="2.2s" repeatCount="indefinite"/></circle>
+    <path d="M72 100L80 108M80 100L72 108" stroke="#c72c2c"/>
+  </g>
+  <text x="28" y="112" fill="#f4f4f0" font-family="Arial,sans-serif" font-weight="700" font-size="27">INTERACTION</text>
+  <text x="28" y="144" fill="#f4f4f0" font-family="Arial,sans-serif" font-weight="700" font-size="27">INTELLIGENCE AUDIT</text>
+  <text x="28" y="194" fill="#999" font-family="Arial,sans-serif" font-size="14">FLOW GAPS · AI RISKS · RELEASE BLOCKERS</text>
+  <rect x="28" y="226" width="118" height="2" fill="#c72c2c"/><text x="28" y="252" fill="#c72c2c" font-family="monospace" font-size="13">VIEW SYSTEM ↗</text>
+</svg>

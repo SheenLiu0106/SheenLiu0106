@@ -1,0 +1,13 @@
+<svg width="600" height="280" viewBox="0 0 600 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="280" rx="10" fill="#0b0b0b"/>
+  <g transform="translate(360 48)" fill="none" stroke="#aaa" stroke-width="2">
+    <path d="M0 0H190L152 44H38Z"/><path d="M38 58H152L126 100H64Z"/><path d="M64 114H126L108 156H82Z"/>
+    <path d="M95 156V184" stroke="#c72c2c" stroke-width="5"><animate attributeName="stroke-width" values="3;7;3" dur="2s" repeatCount="indefinite"/></path>
+    <circle cx="22" cy="22" r="5" fill="#c72c2c" stroke="none"/><circle cx="168" cy="22" r="5" fill="#c72c2c" stroke="none"/>
+  </g>
+  <text x="28" y="34" fill="#777" font-family="monospace" font-size="12">04 / GROWTH SYSTEMS</text>
+  <text x="28" y="112" fill="#f4f4f0" font-family="Arial,sans-serif" font-weight="700" font-size="27">AI MARKETING</text>
+  <text x="28" y="144" fill="#f4f4f0" font-family="Arial,sans-serif" font-weight="700" font-size="27">SKILLS</text>
+  <text x="28" y="194" fill="#999" font-family="Arial,sans-serif" font-size="14">CONTENT · PIPELINE · GROWTH OPS</text>
+  <rect x="28" y="226" width="118" height="2" fill="#c72c2c"/><text x="28" y="252" fill="#c72c2c" font-family="monospace" font-size="13">VIEW SYSTEM ↗</text>
+</svg>

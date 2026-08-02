@@ -1,0 +1,39 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <defs><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#1d1d1d"/></pattern></defs>
+  <rect width="1200" height="360" rx="10" fill="#0a0a0a"/><rect width="1200" height="360" rx="10" fill="url(#grid)"/>
+  <path d="M400 32V328M800 32V328" stroke="#303030"/>
+
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="34" y="42" fill="#777" font-family="monospace" font-size="12" letter-spacing="2">01 / ORCHESTRATION</text>
+    <text x="34" y="86" fill="#f3f3ef" font-size="25" font-weight="700">AGENTIC WORKFLOWS</text>
+    <text x="34" y="112" fill="#999" font-size="13">Reason · coordinate · act</text>
+    <g transform="translate(78 182)" fill="none" stroke="#aaa" stroke-width="2">
+      <circle cx="0" cy="35" r="18"/><circle cx="100" cy="0" r="18"/><circle cx="200" cy="35" r="18"/><circle cx="100" cy="100" r="24" stroke="#eee"/>
+      <path d="M17 29L82 6M115 12L184 29M17 44L78 88M184 44L123 88" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" values="0;-24" dur="2s" repeatCount="indefinite"/></path>
+      <circle cx="100" cy="100" r="5" fill="#eee"/>
+    </g>
+    <text x="34" y="327" fill="#777" font-family="monospace" font-size="11">MULTI-AGENT / HUMAN-IN-THE-LOOP</text>
+
+    <text x="434" y="42" fill="#777" font-family="monospace" font-size="12" letter-spacing="2">02 / STRUCTURE</text>
+    <text x="434" y="86" fill="#f3f3ef" font-size="25" font-weight="700">KNOWLEDGE SYSTEMS</text>
+    <text x="434" y="112" fill="#999" font-size="13">Model · retrieve · connect</text>
+    <g transform="translate(596 216)" fill="none" stroke="#777">
+      <path d="M-105 0L-58-68L0-28L65-80L105 4L48 74L-35 76Z"/>
+      <path d="M-105 0L0-28L48 74M-58-68L-35 76M65-80L0-28L105 4"/>
+      <g fill="#0a0a0a" stroke="#ddd" stroke-width="2"><circle cx="-105" r="7"/><circle cx="-58" cy="-68" r="7"/><circle cy="-28" r="9"/><circle cx="65" cy="-80" r="7"/><circle cx="105" cy="4" r="7"/><circle cx="48" cy="74" r="7"/><circle cx="-35" cy="76" r="7"/></g>
+      <circle cy="-28" r="4" fill="#eee"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
+    </g>
+    <text x="434" y="327" fill="#777" font-family="monospace" font-size="11">ONTOLOGY / RETRIEVAL / CONTEXT</text>
+
+    <text x="834" y="42" fill="#777" font-family="monospace" font-size="12" letter-spacing="2">03 / EXPERIENCE</text>
+    <text x="834" y="86" fill="#f3f3ef" font-size="25" font-weight="700">AI-NATIVE INTERFACES</text>
+    <text x="834" y="112" fill="#999" font-size="13">Explain · guide · control</text>
+    <g transform="translate(908 158)" fill="none" stroke="#777" stroke-width="2">
+      <rect width="218" height="120" rx="4"/><path d="M0 30H218M52 30V120"/>
+      <circle cx="18" cy="15" r="3" fill="#eee"/><circle cx="30" cy="15" r="3"/>
+      <path d="M76 56H190M76 76H164M76 96H180" stroke="#aaa"/>
+      <rect x="14" y="50" width="24" height="24" stroke="#eee"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/></rect>
+    </g>
+    <text x="834" y="327" fill="#777" font-family="monospace" font-size="11">CLARITY / TRUST / CONTROL</text>
+  </g>
+</svg>

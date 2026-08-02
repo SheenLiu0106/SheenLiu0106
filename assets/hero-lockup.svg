@@ -1,0 +1,13 @@
+<svg width="1200" height="190" viewBox="0 0 1200 190" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="190" fill="#050505"/>
+  <g fill="#f3f3ef" font-family="Arial,Helvetica,sans-serif">
+    <text x="48" y="36" font-size="12" letter-spacing="4" fill="#8a8a86">SHEEN LIU / CREATIVE TECHNOLOGIST</text>
+    <text x="45" y="102" font-size="56" font-weight="700" letter-spacing="-2">TURNING IMAGINATION</text>
+    <text x="45" y="158" font-size="56" font-weight="700" letter-spacing="-2">INTO SYSTEMS.</text>
+    <text x="920" y="101" font-size="12" letter-spacing="2" fill="#8a8a86">AI SYSTEMS</text>
+    <text x="920" y="125" font-size="12" letter-spacing="2" fill="#8a8a86">PRODUCT ENGINEERING</text>
+    <text x="920" y="149" font-size="12" letter-spacing="2" fill="#8a8a86">INTERACTION DESIGN</text>
+  </g>
+  <rect x="45" y="176" width="1110" height="1" fill="#333"/><rect x="45" y="176" width="165" height="1" fill="#f3f3ef"/>
+  <circle cx="1155" cy="27" r="3" fill="#f3f3ef"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+</svg>

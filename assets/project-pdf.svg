@@ -1,0 +1,14 @@
+<svg width="600" height="280" viewBox="0 0 600 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="280" rx="10" fill="#0b0b0b"/>
+  <g transform="translate(376 38)" fill="none" stroke="#ddd" stroke-width="2">
+    <path d="M0 0H104L142 38V174H0Z"/><path d="M104 0V38H142"/><path d="M24 68H112M24 92H94M24 116H108" stroke="#555"/>
+    <rect x="-22" y="136" width="94" height="42" fill="#0b0b0b" stroke="#c72c2c"/>
+    <text x="-5" y="164" fill="#c72c2c" stroke="none" font-family="Arial,sans-serif" font-weight="700" font-size="22">PDF</text>
+    <path d="M-58 82H-12" stroke="#c72c2c" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" values="0;-20" dur="1.5s" repeatCount="indefinite"/></path><path d="M-18 76L-8 82L-18 88" stroke="#c72c2c"/>
+  </g>
+  <text x="28" y="34" fill="#777" font-family="monospace" font-size="12">02 / CONTENT AUTOMATION</text>
+  <text x="28" y="112" fill="#f4f4f0" font-family="Arial,sans-serif" font-weight="700" font-size="27">CONTENT TO PDF</text>
+  <text x="28" y="144" fill="#f4f4f0" font-family="Arial,sans-serif" font-weight="700" font-size="27">AGENT HUB</text>
+  <text x="28" y="194" fill="#999" font-family="Arial,sans-serif" font-size="14">PASTE · BRAND · GENERATE · SHARE</text>
+  <rect x="28" y="226" width="118" height="2" fill="#c72c2c"/><text x="28" y="252" fill="#c72c2c" font-family="monospace" font-size="13">VIEW SYSTEM ↗</text>
+</svg>
