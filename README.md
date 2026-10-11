@@ -74,58 +74,13 @@
 
 <img src="assets/section-toolchain.svg" width="100%" alt="04 — Toolchain" />
 
+<!-- Individual icons in a single compact row. No category headings. -->
 <p align="center">
-  <sub>01 / PRODUCT ENGINEERING</sub>
+  <img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="42" height="42" alt="Python" title="Python" /><img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="42" height="42" alt="TypeScript" title="TypeScript" /><img src="https://skillicons.dev/icons?i=react&amp;theme=dark" width="42" height="42" alt="React" title="React" /><img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="42" height="42" alt="Next.js" title="Next.js" /><img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" width="42" height="42" alt="Node.js" title="Node.js" /><img src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark" width="42" height="42" alt="FastAPI" title="FastAPI" /><img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" /><img src="https://cdn.simpleicons.org/langgraph/FFFFFF" width="42" height="42" alt="LangGraph" title="LangGraph" /><img src="https://cdn.simpleicons.org/neo4j/008CC1" width="42" height="42" alt="Neo4j" title="Neo4j" /><img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="42" height="42" alt="Ollama" title="Ollama" /><img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/vllm-color.svg" width="42" height="42" alt="vLLM" title="vLLM" /><img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="42" height="42" alt="Docker" title="Docker" /><img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" width="42" height="42" alt="AWS" title="AWS" /><img src="https://skillicons.dev/icons?i=azure&amp;theme=dark" width="42" height="42" alt="Azure" title="Azure" /><img src="https://skillicons.dev/icons?i=cloudflare&amp;theme=dark" width="42" height="42" alt="Cloudflare" title="Cloudflare" /><img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" width="42" height="42" alt="Figma" title="Figma" /><img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="42" height="42" alt="Git" title="Git" /><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="42" height="42" alt="GitHub" title="GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="48" height="48" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="48" height="48" alt="TypeScript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=react&amp;theme=dark" width="48" height="48" alt="React" title="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="48" height="48" alt="Next.js" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" width="48" height="48" alt="Node.js" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark" width="48" height="48" alt="FastAPI" title="FastAPI" />
-  <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
-</p>
-
-<p align="center">
-  <sub>02 / AI & KNOWLEDGE SYSTEMS</sub>
-</p>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/langgraph/FFFFFF" width="48" height="48" alt="LangGraph" title="LangGraph" />
-  <img src="https://cdn.simpleicons.org/neo4j/008CC1" width="48" height="48" alt="Neo4j" title="Neo4j" />
-  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" alt="Ollama" title="Ollama" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/vllm-color.svg" width="48" height="48" alt="vLLM" title="vLLM" />
-</p>
-
-<p align="center">
-  <sub>03 / CLOUD & INFRASTRUCTURE</sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="48" height="48" alt="Docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" width="48" height="48" alt="AWS" title="AWS" />
-  <img src="https://skillicons.dev/icons?i=azure&amp;theme=dark" width="48" height="48" alt="Azure" title="Azure" />
-  <img src="https://skillicons.dev/icons?i=cloudflare&amp;theme=dark" width="48" height="48" alt="Cloudflare" title="Cloudflare" />
-</p>
-
-<p align="center">
-  <sub>04 / DESIGN & DELIVERY</sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" width="48" height="48" alt="Figma" title="Figma" />
-  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="48" height="48" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="48" height="48" alt="GitHub" title="GitHub" />
-</p>
-
-<p align="center">
-  <code>PYTHON</code>　<code>TYPESCRIPT</code>　<code>REACT</code>　<code>NEXT.JS</code>　<code>FASTAPI</code>
-</p>
-
-<p align="center">
-  <code>LANGGRAPH</code>　<code>NEO4J</code>　<code>OLLAMA</code>　<code>VLLM</code>
+  <code>PYTHON</code>　<code>TYPESCRIPT</code>　<code>REACT</code>　<code>NEXT.JS</code>　<code>FASTAPI</code>　<code>LANGGRAPH</code>　<code>NEO4J</code>　<code>OLLAMA</code>　<code>VLLM</code>
 </p>
 
 <br />
